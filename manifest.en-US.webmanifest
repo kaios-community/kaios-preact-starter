@@ -3,7 +3,10 @@
   "name": "kaios-preact-starter",
   "id": "kaios-preact-starter",
   "short_name": "kaios-preact-starter",
-  "categories": ["entertainment", "games"],
+  "categories": [
+    "entertainment",
+    "games"
+  ],
   "description": "KaiOS starter app using Preact",
   "theme_color": "#7aa86c",
   "background_color": "#ffffff",
