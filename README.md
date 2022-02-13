@@ -1,5 +1,7 @@
 # kaios-preact-starter
 
+[![CircleCI](https://circleci.com/gh/garredow/kaios-preact-starter/tree/main.svg?style=svg)](https://circleci.com/gh/garredow/kaios-preact-starter/tree/main)
+
 ## How to install
 
 1. Install dependencies
