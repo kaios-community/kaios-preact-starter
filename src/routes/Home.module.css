@@ -1,0 +1,16 @@
+.root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.body {
+  flex: 1;
+  padding: 10px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}

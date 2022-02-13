@@ -1,0 +1,9 @@
+{
+  "name": "kaios-preact-starter",
+  "short_name": "kaios-preact-starter",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#ae32a2"
+}
