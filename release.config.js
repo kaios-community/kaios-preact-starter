@@ -18,7 +18,7 @@ module.exports = {
         failComment: false,
         assets: [
           {
-            path: 'Wordly_v*.zip',
+            path: '*.zip',
           },
         ],
       },
